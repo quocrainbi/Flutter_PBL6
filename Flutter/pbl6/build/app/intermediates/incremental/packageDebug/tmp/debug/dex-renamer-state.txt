@@ -1,0 +1,4 @@
+#Thu Nov 16 17:31:57 ICT 2023
+base.0=C\:\\Users\\BaoQuoc\\PBL6\\Flutter\\pbl6\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
